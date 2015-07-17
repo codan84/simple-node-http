@@ -1,6 +1,6 @@
 {
   "name": "simple-node-http",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple wrapper around node.js http to simplify basic requests/add promise API",
   "main": "index.js",
   "scripts": {
