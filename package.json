@@ -1,5 +1,5 @@
 {
-  "name": "simple-http",
+  "name": "simple-node-http",
   "version": "1.0.0",
   "description": "A simple wrapper around node.js http to simplify basic requests/add promise API",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/codan84/simple-http"
+    "url": "https://github.com/codan84/simple-node-http"
   },
   "author": "Daniel Gruszczyk",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/codan84/simple-http/issues"
+    "url": "https://github.com/codan84/simple-node-http/issues"
   },
-  "homepage": "https://github.com/codan84/simple-http"
+  "homepage": "https://github.com/codan84/simple-node-http"
 }
